@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-fff",
+  "version": "1.0.0",
+  "description": "> Nuxt starter for CodeSandBox (used for https://template.nuxtjs.org)",
+  "author": "Nuxt.js Team",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "nuxt": "^2.15.0",
+    "rxjs": "6.6.7",
+    "vuelidate": "0.7.7"
+  },
+  "keywords": [],
+  "main": "nuxt.config.js",
+  "license": "ISC"
+}
